@@ -1,10 +1,7 @@
 """
-Description: Assignment-1 Winnipeg Transit App
+Description: Winnipeg Transit App
 Author: Azime Ulker
-Section Number: 251409
 Date Created: January 3,2023
-
-Updates:
 """
 
 '''Write a simple terminal app that lists all the bus stops within a certain radius of a set
